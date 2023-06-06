@@ -1,0 +1,20 @@
+# Solidity build artifacts
+/build/
+
+# Dependency directories
+/node_modules/
+
+# Compiled contracts
+/contracts/*.json
+
+# Test coverage reports
+/coverage/
+
+# Local development environment files
+.env
+
+# Compiled binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
